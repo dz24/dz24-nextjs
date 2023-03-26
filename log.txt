@@ -1,7 +1,7 @@
 ===========================================================================orz==
 File Name     : log.txt
 Creation Date : 26.03.23 12:10:26
-Last Modified : 26.03.23 12:20:33
+Last Modified : 26.03.23 15:20:32
 Author        : Daniel Tianhou Zhang, daniel.t.zhang@ntnu.no
 Organization  : NTNU, Norway
 ============================================================================owo=
@@ -22,5 +22,6 @@ npm i next-themes
 ## blog structure / tutorial:
 # https://nextjs.org/learn/basics/data-fetching/blog-data
 npm install gray-matter
+npm install remark remark-html
 
 

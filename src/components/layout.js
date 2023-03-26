@@ -10,10 +10,10 @@ export default function Layout({ children, home }) {
   return (
     <>
     <HeaderComponent/>
-    <div>
+    <div className="2xl:w-[1140px] lg:w-[940px] md:w-[720px] md:mx-auto">
       <Head>
         <base target="_blank"></base>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/" />
         <meta
           name="description"
         

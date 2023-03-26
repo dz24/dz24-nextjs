@@ -14,3 +14,7 @@
 a:hover {
   color: #c16565;
 }
+
+nav li {
+    margin: .4em 0 .4em 1.5em;
+}

@@ -27,12 +27,12 @@ function HeaderComponent() {
 	            </div>
 	            <div id="h_box_nav" className="md:w-2/4">
 	                <div id="h_box_nav">
-	                    <ul className="md:text-right">
-	                        <li className="inline-block mx-3"><Link href="/blog">Blog</Link></li>
-	                        <li className="inline-block mx-3"><Link href="/projects">Projects</Link></li>
-	                        <li className="inline-block mx-3"><Link href="/about">About</Link></li>
-	                        <li className="inline-block mx-3"><Link href="/about">EN</Link></li>
-	                        <li className="inline-block mx-3"> <div ><Button/></div> </li>
+	                    <ul id="nav" className="md:text-right">
+	                        <li className="inline-block ml-6"><Link href="/blog">Blog</Link></li>
+	                        <li className="inline-block ml-6"><Link href="/projects">Projects</Link></li>
+	                        <li className="inline-block ml-6"><Link href="/about">About</Link></li>
+	                        <li className="inline-block ml-6"><Link href="/about">EN</Link></li>
+	                        <li className="inline-block ml-6"> <div ><Button/></div> </li>
 	                    </ul>
 	                </div>
 	            </div>
