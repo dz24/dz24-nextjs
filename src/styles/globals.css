@@ -4,17 +4,53 @@
 
 @layer base{
     body {
-        @apply dark:bg-zinc-800	 dark:text-white
+        @apply dark:bg-zinc-800	dark:text-white
     }
 }
-
-:root {
+ul {
+  @apply list-inside list-disc;
 }
 
-a:hover {
-  color: #c16565;
+
+:root {
 }
 
 nav li {
     margin: .4em 0 .4em 1.5em;
 }
+
+body {
+   margin: 0;
+   line-height: 1.4;
+   font-size: 1.05rem;
+   min-height: 100vh;
+   word-wrap: break-word;
+   flex-direction: column;
+   font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+a:hover {
+    color: #c16565;
+}
+h1 {
+    font-size: 1.6em;
+}
+h3 {
+    font-size: 1.2em;
+}
+article, aside, footer, header, nav, section {
+    display: block;
+    margin: .67em 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    margin: .67em 0;
+}
+
+h1 a, h1 a:hover, h2 a, h2 a:hover, h3 a, h3 a:hover, h4 a, h4 a:hover, h5 a, h5 a:hover, h6 a, h6 a:hover {
+    color: var(--foreground);
+    text-decoration: none;
+    margin: .67em 0;
+}
+

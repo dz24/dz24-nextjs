@@ -21,7 +21,7 @@ function HeaderComponent() {
 	            <div id="h_box_title" className="md:w-2/4">
 	                <header id="header-title">
 	                    <h1>
-	                        <Link href="/"><h1>dz24</h1></Link>
+	                        <Link href="/"><div className="">dz24</div></Link>
 	                    </h1>
 	                </header>
 	            </div>
@@ -31,7 +31,6 @@ function HeaderComponent() {
 	                        <li className="inline-block ml-6"><Link href="/blog">Blog</Link></li>
 	                        <li className="inline-block ml-6"><Link href="/projects">Projects</Link></li>
 	                        <li className="inline-block ml-6"><Link href="/about">About</Link></li>
-	                        <li className="inline-block ml-6"><Link href="/about">EN</Link></li>
 	                        <li className="inline-block ml-6"> <div ><Button/></div> </li>
 	                    </ul>
 	                </div>

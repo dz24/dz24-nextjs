@@ -1,11 +1,13 @@
+import path from 'path';
 import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link';
 import Layout, { siteTitle } from '../components/layout';
-import { getSortedPostsData, } from '../components/gallery';
+import { getSortedPostsData2, } from '../components/posts';
 
 export async function getStaticProps() {
-  const allPostsData = getSortedPostsData();
+  const adress = path.join(process.cwd(), 'public/gallery_crop');
+  const allPostsData = getSortedPostsData2({ adress });
   return {
     props: {
       allPostsData,

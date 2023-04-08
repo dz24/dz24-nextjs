@@ -28,12 +28,13 @@ export default function Layout({ children, home }) {
       <main>
 	  {children}
       </main>
-      {!home && (
-        <div>
-          <Link href="./">← Back to home</Link>
-        </div>
-      )}
     </div>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
     </>
   );
 }
