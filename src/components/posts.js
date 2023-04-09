@@ -2,7 +2,9 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 import { remark } from 'remark';
+import remarkGfm from "remark-gfm";
 import html from 'remark-html';
+
 
 export async function getStaticProps() {
   const allPostsData = getSortedPostsData();
@@ -77,6 +79,7 @@ export async function getPostData(id, adress) {
   // Use remark to convert markdown into HTML string
   const processedContent = await remark()
     .use(html)
+    .use(remarkGfm)
     .process(matterResult.content);
   const contentHtml = processedContent.toString();
 
