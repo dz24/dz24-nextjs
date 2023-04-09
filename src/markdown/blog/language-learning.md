@@ -1,7 +1,7 @@
 ---
 title: 'Language Learning'
-date: '2020-01-01'
-modi: '2020-01-02'
+date: '2022-01-03'
+modi: '2023-04-09'
 ---
 
 After many half-assed language learning attempts throughout the years, I stumbled across the "immersion" approach to learning languages (versus the more classical "classroom" approach) in 2020 \[1\] \[2\], and have been studying seriously since then.
@@ -10,16 +10,15 @@ After many half-assed language learning attempts throughout the years, I stumble
 2.  [The Moe Way](https://learnjapanese.moe/)
 3.  [Morg's "loop" cycle](https://morg.systems/58465ab9.html)
 
-### Map : JP (current) → CN → KR
+## Map : JP (current) → CN → KR
 
 1.  JP 2020 → 2024 (unlikely)
 2.  CN 2024 → 2026 (unlikely)
 3.  KR 2026 → 2031
 
-JP
---
+### JP
 
-### Main tools:
+## Main tools:
 
 1.  Anki
 2.  Jade Reader / Kiwi Browser + Yomichan
@@ -28,14 +27,14 @@ JP
 5.  Italki
 6.  [Minimal pairs pitch](https://kotu.io/tests/pitchAccent/perception/minimalPairs)
 
-### Completed anki decks:
+## Completed anki decks:
 
 *   [Tango N4](https://ankiweb.net/shared/info/1585001017)
 *   [Core 2000](https://ankiweb.net/shared/info/2141233552)
 *   [AJT JP1K](https://ankiweb.net/shared/info/199568219)
 *   [Tango N5](https://ankiweb.net/shared/info/1679429599)
 
-### Books read:
+## Books read:
 
 1.  [化物語 (上)](https://www.goodreads.com/book/show/3940745-bakemonogatari) (2022.01.04)
 2.  [やはり俺の青春ラブコメはまちがっている。1](https://www.goodreads.com/book/show/16247470-1) (2022.01.23)
@@ -59,18 +58,17 @@ JP
 20.  [響け！ユーフォニアム ９](https://www.goodreads.com/book/show/51766908) (2023.02.28)
 20.  [響け！ユーフォニアム １０](https://www.goodreads.com/book/show/51766913) (2023.03.12)
 
-### Notable immersion materials:
+## Notable immersion materials:
 
 *   [Tsukino Mito](https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A/videos)
 *   [MUSIC FUN !](https://www.youtube.com/c/MUSICFUN_JP/videos)
 *   [アニメ私塾室井康雄](https://www.youtube.com/c/%E5%AE%A4%E4%BA%95%E5%BA%B7%E9%9B%84/videos)
 
-### Italki lessons completed:
+## Italki lessons completed:
 
-12 (2023.01.21)
+18 (2023.04.01)
 
-CN
---
+### CN
 
-KR
---
+### KR
+

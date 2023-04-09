@@ -25,12 +25,12 @@ export default function Home({ allPostsData }) {
         <title>Blog</title>
       </Head>
       <section>
-      <div className="mx-auto max-w-[700px]">
+      <div className="mx-auto max-w-[800px]">
         <h1>Blog</h1>
 	<br/>
         <ul>
           {allPostsData.map(({ id, date, title, modi }) => (
-	     <li key={id} class="list-none">
+	     <li key={id} className="list-none">
 	       <Link href={`/blog/${id}`}><b>{title}</b>
 	       <br/>
 	       <small>

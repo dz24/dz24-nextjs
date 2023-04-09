@@ -1,7 +1,7 @@
 ---
 title: 'About'
 date: '2023-01-02'
-modi: '2023-04-08'
+modi: '2023-04-09'
 ---
 Amid the turmoil of balancing hobbies with work and exercise, DZ24 decides to also take up blogging and website-making with the aim of organizing and optimizing their life.
 
@@ -18,8 +18,6 @@ Amid the turmoil of balancing hobbies with work and exercise, DZ24 decides to al
 ### Prospective website improvements
 
 * Footer function
-* tag/blog/image view system
-* Fold and expand paragraphs
 * remember page position refresh..
 * hyperlinks to different parts of the code.. maybe toc as well
 * multiple language switch

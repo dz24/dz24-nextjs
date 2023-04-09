@@ -7,10 +7,6 @@ import Layout from '../../components/layout';
 import path from 'path';
 
 export default function Post({ postData }) {
-  console.log('hello 3');
-  console.log(postData);
-  console.log('hello 4');
-  console.log('hello 5');
   return (
     <Layout>
       <Head>
@@ -50,8 +46,6 @@ export default function Post({ postData }) {
 }
 
 export async function getStaticProps({ params }) {
-  console.log('sun 1');
-  console.log('sun 2');
   const adress = path.join(process.cwd(), 'public/gallery');
   const postData = await getPostData2(params.id, adress);
   return {
@@ -62,7 +56,6 @@ export async function getStaticProps({ params }) {
 }
 
 export async function getStaticPaths() {
-  console.log('boppi');
   const adress = path.join(process.cwd(), 'public/gallery_crop');
   const paths = getAllPostIds2({adress});
   return {

@@ -11,6 +11,9 @@ ul {
   @apply list-inside list-disc;
 }
 
+ol {
+  @apply list-inside list-decimal;
+}
 
 :root {
 }
@@ -40,17 +43,18 @@ h3 {
 }
 article, aside, footer, header, nav, section {
     display: block;
-    margin: .67em 0;
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif, 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: bold;
     margin: .67em 0;
+    margin: 1.00em .0em .67em;
+
 }
 
 h1 a, h1 a:hover, h2 a, h2 a:hover, h3 a, h3 a:hover, h4 a, h4 a:hover, h5 a, h5 a:hover, h6 a, h6 a:hover {
-    color: var(--foreground);
     text-decoration: none;
-    margin: .67em 0;
 }
 
+li {
+}

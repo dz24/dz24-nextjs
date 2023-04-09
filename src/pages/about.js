@@ -33,7 +33,7 @@ export default function Home({aboutData }) {
         />
       </div>
       </div>
-      <div className="mx-auto max-w-[700px]">
+      <div className="mx-auto max-w-[800px]">
        <h1>{aboutData.title}</h1>
        <div className="text-black/[.60] dark:text-white/[.80]">
          <b>edited:</b> <Date dateString={aboutData.date} />
@@ -43,10 +43,12 @@ export default function Home({aboutData }) {
        </div>
       <br/>
       </div>
-      <div className="mx-auto max-w-[700px]">
+      <div className="mx-auto max-w-[800px]">
          <div dangerouslySetInnerHTML={{ __html: aboutData.contentHtml }} />
       </div>
       </article>
+    <br/>
+    <br/>
     <br/>
     <br/>
     <br/>
