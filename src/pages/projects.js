@@ -19,11 +19,11 @@ export default function Home({ allPostsData }) {
   return (
     <Layout home>
       <Head>
-        <title>Blog</title>
+        <title>Projects</title>
       </Head>
       <section>
       <div className="mx-auto max-w-[800px]">
-        <h1>Blog</h1>
+        <h1>Projects</h1>
 	<br/>
         <ul>
           {allPostsData.map(({ id, date, title, modi }) => (
