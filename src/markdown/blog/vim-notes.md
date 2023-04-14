@@ -4,7 +4,7 @@ date: '2020-01-01'
 modi: '2020-01-02'
 ---
 
-###General workflow
+### General workflow
 
 ## To delete lines containing the string 'cs', one can type in Vim's command mode:
 
@@ -20,6 +20,6 @@ modi: '2020-01-02'
 
 ## increment column of numbers:
 
-Visual block + g + <C-a>
+Visual block + g + \<C-a>
 
 
