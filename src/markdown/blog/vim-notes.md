@@ -18,8 +18,10 @@ modi: '2020-01-02'
 
 `:%s/fish/duck/g`
 
-## increment column of numbers:
+## Increment column of numbers:
 
 Visual block + g + \<C-a>
 
+## Size of folders:
 
+du -hs .
