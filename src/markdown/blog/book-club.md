@@ -6,7 +6,18 @@ modi: '2023-04-09'
 
 This blog post serves as a log for the book club I'm in.
 
-## 20xx.xx.xx | The True Believer
+## 20xx.xx.xx | Stories of the sahara
+
+*   Stories of the sahara \[6p\]
+*   Maskiner som tenker \[4p\]
+*   Kindwhore \[3p\]
+*   Sea of tranquility \[3p\]
+*   I am a strange loop \[2p\]
+*   The sheriff of Babylon \[0p\]
+
+## 2023.05.05 | The True Believer
+
+Rating: np.average(\[1, 3, 2, 3, 2, 4\]) = 2.5
 
 *   The True Believer \[7p\]
 *   Flowers for Algernon \[3p\]
