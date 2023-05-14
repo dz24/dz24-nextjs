@@ -56,7 +56,8 @@ After many half-assed language learning attempts throughout the years, I stumble
 18.  [響け！ユーフォニアム ７](https://www.goodreads.com/book/show/35845342) (2023.02.16)
 19.  [響け！ユーフォニアム ８](https://www.goodreads.com/book/show/49631493) (2023.02.20)
 20.  [響け！ユーフォニアム ９](https://www.goodreads.com/book/show/51766908) (2023.02.28)
-20.  [響け！ユーフォニアム １０](https://www.goodreads.com/book/show/51766913) (2023.03.12)
+21.  [響け！ユーフォニアム １０](https://www.goodreads.com/book/show/51766913) (2023.03.12)
+22.  [響け！ユーフォニアム １１](https://www.goodreads.com/book/show/57520928) (2023.05.14)
 
 ## Notable immersion materials:
 
