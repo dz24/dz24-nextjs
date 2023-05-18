@@ -4,9 +4,11 @@ date: '2020-01-01'
 modi: '2023-05-18'
 ---
 
+A heatmap showing how many japanese characters I've read during a day. This will hopefully motivate me to read more consistently.
+
 [![jplog](/images/jplog.png)](/images/jplog.png)
 
-A heatmap showing how many japanese characters I've read during a day. This will hopefully motivate me to read more consistently.
+A dummy code snippet for the generation of the above heatmap:
 
 ```python
 import calplot
@@ -21,11 +23,9 @@ events = pd.Series(values, index=all_days)
 calplot.calplot(events, edgecolor=None, cmap='YlGn', daylabels=[])
 plt.show()
 
-``` 
-
+```
 with *values* being the second column of the following text file:
-
-``` 
+```
 2023-05-11	0
 2023-05-12	1
 2023-05-13	9230
@@ -34,4 +34,4 @@ with *values* being the second column of the following text file:
 2023-05-16	7410
 2023-05-17	5789
 2023-05-18	4361
-``` 
+```
