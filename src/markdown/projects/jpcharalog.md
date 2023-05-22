@@ -32,4 +32,7 @@ with *values* being the second column of the following text file:
 2023-05-16	7410
 2023-05-17	5789
 2023-05-18	8952
+2023-05-19	8954
+2023-05-20	5615
+2023-05-21	25951
 ```
