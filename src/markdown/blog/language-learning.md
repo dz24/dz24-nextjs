@@ -28,7 +28,7 @@ Started logging characters read around 2023.05.11.
 
 ## Anki log:
 
-Whole Anki stat tracker, includes stats from one CN deck that I am also doing. 
+The data for this heatmap also includes stats from one CN deck that I am also doing. 
 
 [![ankimap](/images/ankimap.png)](/images/ankimap.png)
 
