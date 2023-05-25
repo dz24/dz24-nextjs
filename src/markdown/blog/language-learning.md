@@ -1,7 +1,7 @@
 ---
 title: 'Language Learning'
 date: '2022-01-03'
-modi: '2023-04-09'
+modi: '2023-05-25'
 ---
 
 After many half-assed language learning attempts throughout the years, I stumbled across the "immersion" approach to learning languages (versus the more classical "classroom" approach) in 2020 \[1\] \[2\], and have been studying seriously since then.
@@ -17,6 +17,20 @@ After many half-assed language learning attempts throughout the years, I stumble
 3.  KR 2026 → 2031
 
 ### JP
+
+Started learning (seriously) around 2020.08.01.
+
+## Reading log:
+
+Started logging characters read around 2023.05.11. 
+
+[![jplog](/images/jplog.png)](/images/jplog.png)
+
+## Anki log:
+
+Whole Anki stat tracker, includes stats from one CN deck that I am also doing. 
+
+[![ankimap](/images/ankimap.png)](/images/ankimap.png)
 
 ## Main tools:
 
