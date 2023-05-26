@@ -32,22 +32,6 @@ The data for this heatmap also includes stats from one CN deck that I am also do
 
 [![ankimap](/images/ankimap.png)](/images/ankimap.png)
 
-## Main tools:
-
-1.  Anki
-2.  Jade Reader / Kiwi Browser + Yomichan
-3.  [Aquafina's mining setup](https://aquafina-water-bottle.github.io/jp-mining-note/setupanki/)
-4.  Youtube / Audible
-5.  Italki
-6.  [Minimal pairs pitch](https://kotu.io/tests/pitchAccent/perception/minimalPairs)
-
-## Completed anki decks:
-
-*   [Tango N4](https://ankiweb.net/shared/info/1585001017)
-*   [Core 2000](https://ankiweb.net/shared/info/2141233552)
-*   [AJT JP1K](https://ankiweb.net/shared/info/199568219)
-*   [Tango N5](https://ankiweb.net/shared/info/1679429599)
-
 ## Books read:
 
 1.  [化物語 (上)](https://www.goodreads.com/book/show/3940745-bakemonogatari) (2022.01.04)
@@ -73,6 +57,23 @@ The data for this heatmap also includes stats from one CN deck that I am also do
 21.  [響け！ユーフォニアム １０](https://www.goodreads.com/book/show/51766913) (2023.03.12)
 22.  [響け！ユーフォニアム １１](https://www.goodreads.com/book/show/57520928) (2023.05.14)
 
+## Main tools:
+
+1.  Anki
+2.  Jade Reader / Kiwi Browser + Yomichan
+3.  [Aquafina's mining setup](https://aquafina-water-bottle.github.io/jp-mining-note/setupanki/)
+4.  Youtube / Audible
+5.  Italki
+6.  [Minimal pairs pitch](https://kotu.io/tests/pitchAccent/perception/minimalPairs)
+
+## Completed anki decks:
+
+*   [Tango N4](https://ankiweb.net/shared/info/1585001017)
+*   [Core 2000](https://ankiweb.net/shared/info/2141233552)
+*   [AJT JP1K](https://ankiweb.net/shared/info/199568219)
+*   [Tango N5](https://ankiweb.net/shared/info/1679429599)
+
+
 ## Notable immersion materials:
 
 *   [Tsukino Mito](https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A/videos)
@@ -81,7 +82,7 @@ The data for this heatmap also includes stats from one CN deck that I am also do
 
 ## Italki lessons completed:
 
-18 (2023.04.01)
+20 (2023.05.26)
 
 ### CN
 
