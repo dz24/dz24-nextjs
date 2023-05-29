@@ -22,17 +22,21 @@ Started learning (seriously) around 2020.08.01.
 
 ## Reading log:
 
-Started logging characters read around 2023.05.11. 
+Started logging characters read around 2023.05.11.
 
 [![jplog](/images/jplog.png)](/images/jplog.png)
 
 ## Anki log:
 
-The data for this heatmap also includes stats from one CN deck that I am also doing. 
+The data for this heatmap also includes stats from one CN deck that I am also doing.
 
 [![ankimap](/images/ankimap.png)](/images/ankimap.png)
 
 ## Books read:
+
+The following list shows all the read books and their date of completion.
+
+[![books](/images/books.png)](/images/books.png)
 
 1.  [化物語 (上)](https://www.goodreads.com/book/show/3940745-bakemonogatari) (2022.01.04)
 2.  [やはり俺の青春ラブコメはまちがっている。1](https://www.goodreads.com/book/show/16247470-1) (2022.01.23)
