@@ -6,6 +6,12 @@ modi: '2023-04-09'
 
 This blog post serves as a log for the book club I'm in.
 
+### Heatmap
+
+[![heatmap](/images/club.png)](/images/club.png)
+
+### Log 
+
 ## 20xx.xx.xx | Stories of the sahara
 
 *   Stories of the sahara \[6p\]
@@ -25,7 +31,7 @@ Rating: np.average(\[1, 3, 2, 3, 2, 4\]) = 2.5
 *   The Hitchhiker's guide to the Galaxy \[3p\]
 *   Weird Westerners \[1p\]
 
-## 2023.01.01 | Northanger Abbey
+## 2023.04.01 | Northanger Abbey
 
 Rating: np.average(\[4, 6, 5, 5, 6\]) = 5.2
 
