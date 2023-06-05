@@ -26,6 +26,10 @@ Started logging characters read around 2023.05.11.
 
 [![jplog](/images/jplog.png)](/images/jplog.png)
 
+## Writing log:
+
+[![nikki](/images/nikki.png)](/images/nikki.png)
+
 ## Anki log:
 
 The data for this heatmap also includes stats from one CN deck that I am also doing.
