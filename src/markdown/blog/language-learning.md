@@ -50,7 +50,7 @@ The following list shows all the read books and their date of completion.
 6.  [甘城ブリリアントパーク 1](https://www.goodreads.com/book/show/25211982-1-amagi-brilliant-park-1) (2022.07.06)
 7.  [ココロコネクト ヒトランダム](https://www.goodreads.com/book/show/15813823-kokoro-konekuto-hito-randamu) (2022.07.12)
 8.  [化物語 (下)](https://www.goodreads.com/book/show/6558646-bakemonogatari) (2022.07.21)
-9.  [涼宮ハルヒの憂鬱](https://www.goodreads.com/book/show/3410728) (2022.08.14)
+9.  [涼宮ハルヒの憂鬱１](https://www.goodreads.com/book/show/3410728) (2022.08.14)
 10.  [三日間の幸福](https://www.goodreads.com/book/show/28488677?ref=nav_sb_ss_1_6) (2022.09.10)
 11.  [琥珀の秋、0秒の旅](https://bookmeter.com/books/20050025) (2022.09.24)
 12.  [響け！ユーフォニアム １](https://www.goodreads.com/book/show/25592645) (2022.10.24)
