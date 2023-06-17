@@ -12,7 +12,19 @@ This blog post serves as a log for the book club I'm in.
 
 ### Log 
 
-## 20xx.xx.xx | Stories of the sahara
+## 2023.07.xx | Unbearable lightness of being
+
+Rating: np.average(\[3, 3, 5, 5\]) = 4.
+
+*   Unbearable lightness of being \[6p\]
+*   Nana \[3p\]
+*   The elementary particles \[3p\]
+*   The underwater welder \[3p\]
+*   Slædedagbok for turen til Sydpolen \[0p\]
+
+## 2023.06.04 | Stories of the sahara
+
+Rating: np.average(\[3, 3, 5, 5\]) = 4.
 
 *   Stories of the sahara \[6p\]
 *   Maskiner som tenker \[4p\]
