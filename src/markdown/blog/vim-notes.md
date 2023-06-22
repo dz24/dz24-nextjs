@@ -25,3 +25,17 @@ Visual block + g + \<C-a>
 ## Size of folders:
 
 du -hs .
+
+## Grep
+
+grep -r 'zobi' --include \*.py
+
+## find
+
+find . -type f -name "*.py"
+
+## git diff --name-only
+
+git diff --name-only SHA1 SHA2
+
+
