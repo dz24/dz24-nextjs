@@ -12,9 +12,29 @@ This blog post serves as a log for the book club I'm in.
 
 ### Log 
 
+## 2023.08.xx | Stalingrad: The fateful siege
+
+Rating: np.average(\[ \]) = x.x
+
+*   Stalingrad: The fateful siege \[4p\]
+*   Pachinko \[4p\]
+*   De kaller meg ulven \[4p\]
+*   The secret history \[3p\]
+*   Narcissus and Goldnunn \[0p\]
+
+## 2023.07.17 | Unbearable lightness of being
+
+Rating: np.average(\[5, 3, 5, 4, 2 \]) = 3.8
+
+*   Unbearable lightness of being \[6p\]
+*   Nana \[3p\]
+*   The elementary particles \[3p\]
+*   The underwater welder \[3p\]
+*   Slædedagbok for turen til Sydpolen \[0p\]
+
 ## 2023.07.xx | Unbearable lightness of being
 
-Rating: np.average(\[3, 3, 5, 5\]) = 4.
+Rating: np.average(\[5, 3, 5, 4, 2 \]) = 3.8
 
 *   Unbearable lightness of being \[6p\]
 *   Nana \[3p\]
