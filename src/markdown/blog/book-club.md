@@ -32,16 +32,6 @@ Rating: np.average(\[5, 3, 5, 4, 2 \]) = 3.8
 *   The underwater welder \[3p\]
 *   Slædedagbok for turen til Sydpolen \[0p\]
 
-## 2023.07.xx | Unbearable lightness of being
-
-Rating: np.average(\[5, 3, 5, 4, 2 \]) = 3.8
-
-*   Unbearable lightness of being \[6p\]
-*   Nana \[3p\]
-*   The elementary particles \[3p\]
-*   The underwater welder \[3p\]
-*   Slædedagbok for turen til Sydpolen \[0p\]
-
 ## 2023.06.04 | Stories of the sahara
 
 Rating: np.average(\[3, 3, 5, 5\]) = 4.
