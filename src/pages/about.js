@@ -44,7 +44,8 @@ export default function Home({aboutData }) {
       <br/>
       </div>
       <div className="mx-auto max-w-[800px]">
-         <div dangerouslySetInnerHTML={{ __html: aboutData.contentHtml }} />
+         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.11.1/katex.min.css"></link>
+         <div dangerouslySetInnerHTML={{ __html: aboutData.yoyo}} />
       </div>
       </article>
     <br/>

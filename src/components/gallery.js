@@ -3,6 +3,10 @@ import path from 'path';
 import matter from 'gray-matter';
 import { remark } from 'remark';
 import html from 'remark-html';
+import { unified } from 'unified'
+var md = require('markdown-it')(),
+    mk = require('@iktakahiro/markdown-it-katex');
+md.use(mk);
 
 const postsDirectory = path.join(process.cwd(), 'public/gallery_crop');
 const postsDirectory2 = path.join(process.cwd(), 'public/gallery');
@@ -93,6 +97,7 @@ export async function getAbout() {
   const fullPath = path.join(aboutDirectory, 'about.md');
   const fileContents = fs.readFileSync(fullPath, 'utf8');
   const matterResult = matter(fileContents);
+  const yoyo = md.render(matterResult.content)
   const processedContent = await remark()
     .use(html)
     .process(matterResult.content);
@@ -100,6 +105,7 @@ export async function getAbout() {
   return {
     contentHtml,
     ...matterResult.data,
+    yoyo,
   };
 }
 

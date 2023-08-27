@@ -9,8 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@iktakahiro/markdown-it-katex": "^4.0.1",
     "date-fns": "^2.29.3",
     "gray-matter": "^4.0.3",
+    "markdown-it": "^13.0.1",
     "next": "13.2.4",
     "next-themes": "^0.2.1",
     "react": "18.2.0",

@@ -25,3 +25,5 @@ Amid the turmoil of balancing hobbies with work and exercise, DZ24 decides to al
 ### To-do list
 * Read and study [Vision: Color and Composition for Film](https://www.amazon.com/Vision-Composition-Hans-P-Bacher/dp/1786272202)
 * Start learning and playing an electric guitar
+
+$$f(x) = \sum$$
