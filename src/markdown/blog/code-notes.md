@@ -1,5 +1,5 @@
 ---
-title: 'Vim notes'
+title: 'Code notes'
 date: '2020-01-01'
 modi: '2020-01-02'
 ---
@@ -38,4 +38,8 @@ find . -type f -name "*.py"
 
 git diff --name-only SHA1 SHA2
 
+### matplotlib
 
+## default color cycle:
+
+plt.rcParams['axes.prop_cycle'].by_key()['color']
