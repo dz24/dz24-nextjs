@@ -68,6 +68,7 @@ The following list shows all the read books and their date of completion.
 24.  [響け！ユーフォニアム ６](https://www.goodreads.com/book/show/53592019) (2023.06.17)
 25.  [ようこそ実力至上主義の教室へ１](https://www.goodreads.com/book/show/26036215-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-novel) (2023.08.02)
 26.  [ようこそ実力至上主義の教室へ２](https://www.goodreads.com/book/show/27765032-2-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-novel) (2023.08.14)
+27.  [ようこそ実力至上主義の教室へ３](https://www.goodreads.com/book/show/29494430-3-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-novel) (2023.08.30)
 
 ## Main tools:
 
