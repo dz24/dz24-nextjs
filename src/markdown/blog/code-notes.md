@@ -28,7 +28,7 @@ du -hs .
 
 ## Grep
 
-grep -r 'zobi' --include \*.py
+grep -ri --include="*py" 'zobi'
 
 ## find
 
