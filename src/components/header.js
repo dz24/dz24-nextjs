@@ -28,9 +28,9 @@ function HeaderComponent() {
 	            <div id="h_box_nav" className="md:w-2/4">
 	                <div id="h_box_nav">
 	                    <ul id="nav" className="md:text-right">
-	                        <li className="inline-block ml-6"><Link href="/blog">Blog</Link></li>
-	                        <li className="inline-block ml-6"><Link href="/projects">Projects</Link></li>
-	                        <li className="inline-block ml-6"><Link href="/about">About</Link></li>
+	                        <li className="inline-block ml-6"><Link href="/blog">ブログ</Link></li>
+	                        <li className="inline-block ml-6"><Link href="/projects">プロジェクト</Link></li>
+	                        <li className="inline-block ml-6"><Link href="/about">プロフィール</Link></li>
 	                        <li className="inline-block ml-6"> <div ><Button/></div> </li>
 	                    </ul>
 	                </div>
