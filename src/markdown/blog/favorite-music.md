@@ -1,5 +1,5 @@
 ---
-title: 'Favorite music'
+title: '好きな音楽'
 date: '2022-01-01'
 modi: '2023-04-09'
 ---

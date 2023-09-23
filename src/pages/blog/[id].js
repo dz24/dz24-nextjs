@@ -15,10 +15,10 @@ export default function Post({ postData }) {
       <div className="mx-auto max-w-[800px]">
         <h1>{postData.title}</h1>
         <div className="text-black/[.60] dark:text-white/[.80]">
-         <b >edited:</b> <Date dateString={postData.modi} />
+         <b>エデイット:</b> <Date dateString={postData.modi} />
         </div>
         <div className="text-black/[.60] dark:text-white/[.80]">
-         <b>published:</b> <Date dateString={postData.date} />
+         <b>出版:</b> <Date dateString={postData.date} />
         </div>
 	<br/>
         <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />

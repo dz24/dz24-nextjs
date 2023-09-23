@@ -36,10 +36,10 @@ export default function Home({aboutData }) {
       <div className="mx-auto max-w-[800px]">
        <h1>{aboutData.title}</h1>
        <div className="text-black/[.60] dark:text-white/[.80]">
-         <b>edited:</b> <Date dateString={aboutData.date} />
+         <b>エデイット:</b> <Date dateString={aboutData.modi} />
        </div>
        <div className="text-black/[.60] dark:text-white/[.80]">
-         <b>published:</b> <Date dateString={aboutData.date} />
+         <b>出版:</b> <Date dateString={aboutData.date} />
        </div>
       <br/>
       </div>

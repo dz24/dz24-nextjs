@@ -1,5 +1,5 @@
 ---
-title: 'Book club'
+title: '読書クラブ'
 date: '2022-01-02'
 modi: '2023-04-09'
 ---

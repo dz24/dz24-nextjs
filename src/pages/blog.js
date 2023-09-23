@@ -7,9 +7,6 @@ import path from 'path';
 
 export async function getStaticProps() {
   const adress = path.join(process.cwd(), 'src/markdown/blog');
-  console.log("woop 1!");
-  console.log(adress);
-  console.log("woop 2!");
   const allPostsData = getSortedPostsData({ adress });
   return {
     props: {
@@ -22,11 +19,11 @@ export default function Home({ allPostsData }) {
   return (
     <Layout home>
       <Head>
-        <title>Blog</title>
+        <title>ブログ</title>
       </Head>
       <section>
       <div className="mx-auto max-w-[800px]">
-        <h1>Blog</h1>
+        <h1>ブログ</h1>
 	<br/>
         <ul>
           {allPostsData.map(({ id, date, title, modi }) => (

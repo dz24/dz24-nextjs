@@ -1,5 +1,5 @@
 ---
-title: 'Diary [jp]'
+title: '日記'
 date: '2023-08-28'
 modi: '2020-08-28'
 ---

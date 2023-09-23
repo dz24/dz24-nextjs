@@ -1,5 +1,5 @@
 ---
-title: 'Language Learning'
+title: '言語学ぶ'
 date: '2022-01-03'
 modi: '2023-05-25'
 ---
