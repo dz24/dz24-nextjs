@@ -1,13 +1,15 @@
 ---
 title: '好きな音楽'
 date: '2022-01-01'
-modi: '2023-04-09'
+modi: '2023-10-20'
 ---
 
 [![triangle](/images/album2023.png)](/images/album2023.png)
-Some of my favourite albums [2023-04-09] in no particular order.
+&nbsp;
 
-Since 2022, I've become really into j-rock and j-indie, but also atmospheric/ambient music. In the case that my spotify playlists get wiped, I paste a copy here.
+順不同にフェイバリットなアルバムです。
+
+２０２２から、日本のロックとインデイーズロックにはまってしまった。このブログはただ記録のためにブログです。
 
 # [jrock & jindie](https://open.spotify.com/playlist/4jE92IWmQF27ArrUsOnWh8?si=510a2a5f5dab4d08)
 

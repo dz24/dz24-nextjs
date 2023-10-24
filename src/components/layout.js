@@ -10,7 +10,7 @@ export default function Layout({ children, home }) {
   return (
     <>
     <HeaderComponent/>
-    <div className="2xl:w-[1140px] lg:w-[940px] md:w-[720px] md:mx-auto">
+    <div className="2xl:w-[1140px] 2xl:px-0 lg:w-[940px] lg:px-0 md:w-[720px] md:px-0 md:mx-auto px-4">
       <Head>
         <base target="_blank"></base>
         <link rel="icon" href="/" />

@@ -28,7 +28,7 @@ export default function Post({ postData }) {
     <br/>
     <br/>
     <div>
-       <Link href="./">← Back to home</Link>
+       <Link href="./">← もどれ</Link>
     </div>
     </Layout>
   );

@@ -39,6 +39,9 @@ export default function Home({ allPostsData }) {
           ))}
         </ul>
       </div>
+      <div>
+         <Link href="./">← もどれ</Link>
+      </div>
       </section>
     </Layout>
   );

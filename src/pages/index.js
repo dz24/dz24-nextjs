@@ -38,7 +38,7 @@ export default function Home({ allPostsData }) {
               	     width={228}
               	     alt=""
               	  />
-	      	  <div className="absolute inset-0 bg-black/25 invisible group-hover:visible flex float-left pl-2 pt-2" id="card_wrap">
+	      	  <div className="absolute inset-0 bg-black/25 invisible group-hover:visible flex pl-4" id="card_wrap">
 	      	  <p className="text-white text-xl">{`${id}`}</p>
 	      	  </div>
  	 	</Link>

@@ -6,15 +6,22 @@ modi: '2023-04-09'
 
 This blog post serves as a log for the book club I'm in.
 
-### Heatmap
-
-[![heatmap](/images/club.png)](/images/club.png)
-
 ### Log 
 
-## 2023.08.xx | Stalingrad: The fateful siege
+## 2023.xx.xx | Neuroscience of intelligence
 
 Rating: np.average(\[ \]) = x.x
+
+*   Neuroscience of intelligence \[5p\]
+*   Hard-boiled egg \[4p\]
+*   Hør Her'a \[4p\]
+*   Tommorow tommorow tommorow \[4p\]
+*   Mot strømmen \[1p\]
+*   My favorite thing is monsters \[1p\]
+
+## 2023.09.10 | Stalingrad: The fateful siege
+
+Rating: np.average(\[4, 4, 4\]) = 4.0
 
 *   Stalingrad: The fateful siege \[4p\]
 *   Pachinko \[4p\]
@@ -24,7 +31,7 @@ Rating: np.average(\[ \]) = x.x
 
 ## 2023.07.17 | Unbearable lightness of being
 
-Rating: np.average(\[5, 3, 5, 4, 2 \]) = 3.8
+Rating: np.average(\[5, 3, 5, 4, 2\]) = 3.8
 
 *   Unbearable lightness of being \[6p\]
 *   Nana \[3p\]

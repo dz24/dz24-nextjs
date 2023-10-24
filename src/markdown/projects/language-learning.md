@@ -70,6 +70,7 @@ The following list shows all the read books and their date of completion.
 26.  [ようこそ実力至上主義の教室へ２](https://www.goodreads.com/book/show/27765032-2-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-novel) (2023.08.14)
 27.  [ようこそ実力至上主義の教室へ３](https://www.goodreads.com/book/show/29494430-3-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-novel) (2023.08.30)
 28.  [ようこそ実力至上主義の教室へ４](https://www.goodreads.com/book/show/35715210-4-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-novel) (2023.09.09)
+29.  [偽物語上](https://www.goodreads.com/book/show/4501962-nisemonogatari) (2023.10.21)
 
 ## Main tools:
 

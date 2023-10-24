@@ -43,3 +43,21 @@ git diff --name-only SHA1 SHA2
 ## default color cycle:
 
 plt.rcParams['axes.prop_cycle'].by_key()['color']
+
+### Starship for cool terminal
+~/.config/starship.toml
+
+### iterm2->settings->keys
+
+## split
+
+new split: win + D
+move split: win + \[/\]
+
+## Tabs
+
+move to left tab: win + 1
+new tab: win + T
+move to right tab: win + 2
+move tab right: ctrl + win + 2
+move tab left: ctrl + win + 1
