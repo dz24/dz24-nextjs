@@ -61,3 +61,12 @@ new tab: win + T
 move to right tab: win + 2
 move tab right: ctrl + win + 2
 move tab left: ctrl + win + 1
+
+## check disc space:
+
+ncdu
+
+## python code check:
+
+black *.py --diff
+ruff *.py
