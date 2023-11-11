@@ -21,7 +21,7 @@ export default function Home({ allPostsData }) {
       <Head>
         <title>ブログ</title>
       </Head>
-      <div>
+      <div className="fixed">
          <Link href="./">← もどれ</Link>
       </div>
       <section>

@@ -11,6 +11,12 @@ modi: '2023-10-20'
 
 ２０２２から、日本のロックとインデイーズロックにはまってしまった。このブログはただ記録のためにブログです。
 
+僕は音楽大好きです。
+
+# 解散しましたバンド
+
+きのこ帝国、lical
+
 # [jrock & jindie](https://open.spotify.com/playlist/4jE92IWmQF27ArrUsOnWh8?si=510a2a5f5dab4d08)
 
 |Track Name|Artist Name(s)|Album Name|Date Added|

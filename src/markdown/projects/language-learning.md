@@ -42,6 +42,7 @@ The following list shows all the read books and their date of completion.
 
 [![books](/images/books.png)](/images/books.png)
 
+２０２２「１４冊」
 1.  [化物語 (上)](https://www.goodreads.com/book/show/3940745-bakemonogatari) (2022.01.04)
 2.  [やはり俺の青春ラブコメはまちがっている。1](https://www.goodreads.com/book/show/16247470-1) (2022.01.23)
 3.  [Just Because!](https://www.goodreads.com/book/show/40618755-just-because) (2022.02.24)
@@ -56,6 +57,9 @@ The following list shows all the read books and their date of completion.
 12.  [響け！ユーフォニアム １](https://www.goodreads.com/book/show/25592645) (2022.10.24)
 13.  [響け！ユーフォニアム ２](https://www.goodreads.com/book/show/35216832) (2022.12.13)
 14.  [響け！ユーフォニアム ３](https://www.goodreads.com/book/show/25782259) (2022.12.27)
+
+２０２３「１６冊」
+
 15.  [響け！ユーフォニアム ４](https://www.goodreads.com/book/show/26235661) (2023.01.08)
 16.  [響け！ユーフォニアム ７](https://www.goodreads.com/book/show/35845316) (2023.01.25)
 17.  [響け！ユーフォニアム ８](https://www.goodreads.com/book/show/35845330) (2023.02.04)
@@ -71,6 +75,7 @@ The following list shows all the read books and their date of completion.
 27.  [ようこそ実力至上主義の教室へ３](https://www.goodreads.com/book/show/29494430-3-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-novel) (2023.08.30)
 28.  [ようこそ実力至上主義の教室へ４](https://www.goodreads.com/book/show/35715210-4-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-novel) (2023.09.09)
 29.  [偽物語上](https://www.goodreads.com/book/show/4501962-nisemonogatari) (2023.10.21)
+30.  [丘の家のミッキー 1](https://bookmeter.com/books/497529) (2023.11.11)
 
 ## Main tools:
 

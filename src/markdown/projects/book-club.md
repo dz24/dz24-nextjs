@@ -6,11 +6,11 @@ modi: '2023-04-09'
 
 This blog post serves as a log for the book club I'm in.
 
-### Log 
+### Log
 
-## 2023.xx.xx | Neuroscience of intelligence
+## 2023.10.28 | Neuroscience of intelligence
 
-Rating: np.average(\[ \]) = x.x
+Rating: np.average(\[5, 5, 4, 3, 2\]) = 3.8
 
 *   Neuroscience of intelligence \[5p\]
 *   Hard-boiled egg \[4p\]
