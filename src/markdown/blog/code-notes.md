@@ -75,3 +75,8 @@ ncdu
 black *.py --diff
 
 ruff *.py
+
+## macos stuff:
+
+Control + A for goto the beginning and Control + E to goto the end
+
