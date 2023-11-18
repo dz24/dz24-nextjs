@@ -1,7 +1,7 @@
 ---
 title: '日本語学ぶ'
 date: '2022-01-03'
-modi: '2023-11-14'
+modi: '2023-11-18'
 ---
 
 日本語興味はありますから、学んでいます。始まり時は２０２０年０８月の頃です。それ以来、僕は大体毎日勉強しました。暗記アプリ、動画見たりと読書は僕の勉強方法です。
@@ -51,7 +51,7 @@ modi: '2023-11-14'
 26. [ようこそ実力至上主義の教室へ２](https://www.goodreads.com/book/show/27765032-2-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-novel) (２０２３.０８.１４)
 27. [ようこそ実力至上主義の教室へ３](https://www.goodreads.com/book/show/29494430-3-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-novel) (２０２３.０８.３０)
 28. [ようこそ実力至上主義の教室へ４](https://www.goodreads.com/book/show/35715210-4-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-novel) (２０２３.０９.０９)
-29. [偽物語上](https://www.goodreads.com/book/show/4501962-nisemonogatari) (２０２３.１０.２１)
+29. [偽物語(上)](https://www.goodreads.com/book/show/4501962-nisemonogatari) (２０２３.１０.２１)
 30. [丘の家のミッキー 1](https://bookmeter.com/books/497529) (２０２３.１１.１１)
 
 ## イタルキーレッスン
