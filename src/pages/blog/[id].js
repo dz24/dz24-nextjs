@@ -12,9 +12,6 @@ export default function Post({ postData }) {
         <title>{postData.title}</title>
       </Head>
       <article>
-    <div>
-       <Link href="./">← もどれ</Link>
-    </div>
       <div className="mx-auto max-w-[800px]">
         <h1>{postData.title}</h1>
         <div className="text-black/[.60] dark:text-white/[.80]">
@@ -30,9 +27,6 @@ export default function Post({ postData }) {
     <br/>
     <br/>
     <br/>
-    <div>
-       <Link href="./">← もどれ</Link>
-    </div>
     </Layout>
   );
 }

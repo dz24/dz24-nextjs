@@ -21,9 +21,6 @@ export default function Home({ allPostsData }) {
       <Head>
         <title>ブログ</title>
       </Head>
-      <div className="fixed">
-         <Link href="./">← もどれ</Link>
-      </div>
       <section>
       <div className="mx-auto max-w-[800px]">
         <h1>ブログ</h1>
@@ -41,9 +38,6 @@ export default function Home({ allPostsData }) {
 	     </li>
           ))}
         </ul>
-      </div>
-      <div>
-         <Link href="./">← もどれ</Link>
       </div>
       </section>
     </Layout>

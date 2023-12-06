@@ -19,11 +19,11 @@ export default function Home({ allPostsData }) {
   return (
     <Layout home>
       <Head>
-        <title>プロジェクト</title>
+        <title>作品</title>
       </Head>
       <section>
       <div className="mx-auto max-w-[800px]">
-        <h1>プロジェクト</h1>
+        <h1>作品</h1>
 	<br/>
         <ul>
           {allPostsData.map(({ id, date, title, modi }) => (
@@ -38,9 +38,6 @@ export default function Home({ allPostsData }) {
 	     </li>
           ))}
         </ul>
-      </div>
-      <div>
-         <Link href="./">← もどれ</Link>
       </div>
       </section>
     </Layout>

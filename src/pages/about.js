@@ -53,9 +53,6 @@ export default function Home({aboutData }) {
     <br/>
     <br/>
     <br/>
-    <div>
-       <Link href="./">← もどれ</Link>
-    </div>
     </Layout>
   );
 }
