@@ -1,8 +1,20 @@
 ---
 title: 'レビュー'
 date: '2023-10-21'
-modi: '2023-11-27'
+modi: '2023-12-12'
 ---
+
+### Pachinko
+
+**Min Jin Lee | 本 |【★★★★★】| 2023.12.12**
+
+TBD
+
+### White Chrysanthemum
+
+**Mary Lynn Bracht | 本 |【★★☆☆☆】| 2023.12.06**
+
+TBD
 
 ### 君はどう生きているか
 
