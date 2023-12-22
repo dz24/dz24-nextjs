@@ -1,7 +1,7 @@
 ---
 title: '日本語学ぶ'
 date: '2022-01-03'
-modi: '2023-11-18'
+modi: '2023-12-22'
 ---
 
 日本語興味はありますから、学んでいます。始まり時は２０２０年０８月の頃です。それ以来、僕は大体毎日勉強しました。暗記アプリ、動画見たりと読書は僕の勉強方法です。
@@ -35,24 +35,25 @@ modi: '2023-11-18'
 13. [響け！ユーフォニアム ２](https://www.goodreads.com/book/show/35216832) (２０２２.１２.１３)
 14. [響け！ユーフォニアム ３](https://www.goodreads.com/book/show/25782259) (２０２２.１２.２７)
 
-２０２３「１６冊」
+２０２３「１７冊」
 
-15. [響け！ユーフォニアム ４](https://www.goodreads.com/book/show/26235661) (２０２３.０１.０８)
-16. [響け！ユーフォニアム ７](https://www.goodreads.com/book/show/35845316) (２０２３.０１.２５)
-17. [響け！ユーフォニアム ８](https://www.goodreads.com/book/show/35845330) (２０２３.０２.０４)
-18. [響け！ユーフォニアム ９](https://www.goodreads.com/book/show/35845342) (２０２３.０２.１６)
-19. [響け！ユーフォニアム １０](https://www.goodreads.com/book/show/49631493) (２０２３.０２.２０)
-20. [響け！ユーフォニアム １１](https://www.goodreads.com/book/show/51766908) (２０２３.０２.２８)
-21. [響け！ユーフォニアム １２](https://www.goodreads.com/book/show/51766913) (２０２３.０３.１２)
-22. [響け！ユーフォニアム １３](https://www.goodreads.com/book/show/57520928) (２０２３.０５.１４)
-23. [響け！ユーフォニアム ５](https://www.goodreads.com/book/show/35845316) (２０２３.０５.２８)
-24. [響け！ユーフォニアム ６](https://www.goodreads.com/book/show/53592019) (２０２３.０６.１７)
-25. [ようこそ実力至上主義の教室へ１](https://www.goodreads.com/book/show/26036215-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-novel) (２０２３.０８.０２)
-26. [ようこそ実力至上主義の教室へ２](https://www.goodreads.com/book/show/27765032-2-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-novel) (２０２３.０８.１４)
-27. [ようこそ実力至上主義の教室へ３](https://www.goodreads.com/book/show/29494430-3-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-novel) (２０２３.０８.３０)
-28. [ようこそ実力至上主義の教室へ４](https://www.goodreads.com/book/show/35715210-4-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-novel) (２０２３.０９.０９)
-29. [偽物語(上)](https://www.goodreads.com/book/show/4501962-nisemonogatari) (２０２３.１０.２１)
-30. [丘の家のミッキー 1](https://bookmeter.com/books/497529) (２０２３.１１.１１)
+1. [響け！ユーフォニアム ４](https://www.goodreads.com/book/show/26235661) (２０２３.０１.０８)
+2. [響け！ユーフォニアム ７](https://www.goodreads.com/book/show/35845316) (２０２３.０１.２５)
+3. [響け！ユーフォニアム ８](https://www.goodreads.com/book/show/35845330) (２０２３.０２.０４)
+4. [響け！ユーフォニアム ９](https://www.goodreads.com/book/show/35845342) (２０２３.０２.１６)
+5. [響け！ユーフォニアム １０](https://www.goodreads.com/book/show/49631493) (２０２３.０２.２０)
+6. [響け！ユーフォニアム １１](https://www.goodreads.com/book/show/51766908) (２０２３.０２.２８)
+7. [響け！ユーフォニアム １２](https://www.goodreads.com/book/show/51766913) (２０２３.０３.１２)
+8. [響け！ユーフォニアム １３](https://www.goodreads.com/book/show/57520928) (２０２３.０５.１４)
+9. [響け！ユーフォニアム ５](https://www.goodreads.com/book/show/35845316) (２０２３.０５.２８)
+10. [響け！ユーフォニアム ６](https://www.goodreads.com/book/show/53592019) (２０２３.０６.１７)
+11. [ようこそ実力至上主義の教室へ１](https://www.goodreads.com/book/show/26036215-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-novel) (２０２３.０８.０２)
+12. [ようこそ実力至上主義の教室へ２](https://www.goodreads.com/book/show/27765032-2-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-novel) (２０２３.０８.１４)
+13. [ようこそ実力至上主義の教室へ３](https://www.goodreads.com/book/show/29494430-3-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-novel) (２０２３.０８.３０)
+14. [ようこそ実力至上主義の教室へ４](https://www.goodreads.com/book/show/35715210-4-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-novel) (２０２３.０９.０９)
+15. [偽物語(上)](https://www.goodreads.com/book/show/4501962-nisemonogatari) (２０２３.１０.２１)
+16. [丘の家のミッキー 1](https://bookmeter.com/books/497529) (２０２３.１１.１１)
+17. [ようこそ実力至上主義の教室へ４．５](https://bookmeter.com/books/11132466) (２０２３.１２.２２)
 
 ## イタルキーレッスン
 
