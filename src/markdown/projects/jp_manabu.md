@@ -1,7 +1,7 @@
 ---
 title: '日本語学ぶ'
 date: '2022-01-03'
-modi: '2023-12-25'
+modi: '2023-12-29'
 ---
 
 日本語興味はありますから、学んでいます。始まり時は２０２０年０８月の頃です。それ以来、僕は大体毎日勉強しました。暗記アプリ、動画見たりと読書は僕の勉強方法です。
@@ -17,6 +17,8 @@ modi: '2023-12-25'
 [![ankimap](/images/ankimap.png)](/images/ankimap.png)
 
 ## 読んだ本：
+
+[![bookyears](/images/bookyears.png)](/images/bookyears.png)
 
 ２０２２「１４冊」
 
