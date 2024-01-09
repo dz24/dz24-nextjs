@@ -8,6 +8,16 @@ This blog post serves as a log for the book club I'm in.
 
 ### Log
 
+## 2024.01.07 | White Chrysanthemum
+
+Rating: np.average(\[3, 4, 5, 5, 6\]) = 4.6
+
+*   White Chrysanthemum \[6p\]
+*   Morgon og Kveld \[5p\]
+*   Pachinko \[3p\]
+*   The Overstory \[2p\]
+*   Frankenstein \[2p\]
+
 ## 2023.10.28 | Neuroscience of intelligence
 
 Rating: np.average(\[5, 5, 4, 3, 2\]) = 3.8
