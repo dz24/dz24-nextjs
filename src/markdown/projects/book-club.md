@@ -1,12 +1,22 @@
 ---
 title: '読書クラブ'
 date: '2022-01-02'
-modi: '2023-04-09'
+modi: '2024-03-06'
 ---
 
 This blog post serves as a log for the book club I'm in.
 
 ### Log
+
+## 2024.03.03 | Endurance: Shackleton's Incredible Voyage
+
+Rating: np.average(\[3, 5, 5, 6\]) = 4.8
+
+*   Death and the Penguin \[5p\]
+*   Endurance: Shackleton's Incredible Voyage \[5p\]
+*   The grass is singing \[4p\]
+*   Tomorrow, Tomorrow, Tomorrow \[2p\]
+*   The god of small things \[1p\]
 
 ## 2024.01.07 | White Chrysanthemum
 
